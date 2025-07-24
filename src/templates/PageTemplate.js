@@ -22,7 +22,6 @@ export class PageTemplate {
             </head>`;
     }
 
-    
     header() {
         return `
             <div class="container">
